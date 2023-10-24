@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0de6ce1e688283f9aff081458f8f86b, type: 3}
+  m_Name: YellowSwitcherBlock
+  m_EditorClassIdentifier: 
+  _graphics: {fileID: 7453214905865454432, guid: 68b76e5ec1b5664f184ef0aa37799487,
+    type: 3}
+  _targetBlockType: {fileID: 11400000, guid: 3fb901e187a47a8f68e1967af658792a, type: 2}
