@@ -7,12 +7,12 @@ Space Shooter
 Match3
 
 Practiced skills:
-UI Elements
-UI Animation
-UI Optimization
-2D Graphics Design
-Interactive Elements
-UI Management
-MiniGame Manager System
-Project Management
+UI Elements,
+UI Animation,
+UI Optimization,
+2D Graphics Design,
+Interactive Elements,
+UI Management,
+MiniGame Manager System,
+Project Management,
 Building and Packaging
